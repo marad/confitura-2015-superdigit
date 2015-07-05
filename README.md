@@ -10,11 +10,17 @@ Just run:
 
 > make
 
-# Running
+## Running
 
 After building you can run the compiled program. It expects exactly one argument:
 
 > ./superdigit 98741
+
+### Oh god, why Haskell?
+
+Well... What is a better match for recursion than a functional language? :)
+
+I don't really know Haskell very well but the assignment was simple enough so I figured I might have some fun as well!
 
 ## Superdigit
 
