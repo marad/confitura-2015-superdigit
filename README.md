@@ -1,4 +1,21 @@
 # [Confitura 2015](http://tech.viacom.com/warsawsdc/confitura2015/)
+
+## Requirements
+
+To compile this program you need `make` and `ghc` (Haskell compiler) commands in your `PATH`.
+
+## Building
+
+Just run:
+
+> make
+
+# Running
+
+After building you can run the compiled program. It expects exactly one argument:
+
+> ./superdigit 98741
+
 ## Superdigit
 
 We define superdigit of an integer x using the following rules:
